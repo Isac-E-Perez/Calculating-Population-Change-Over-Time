@@ -25,7 +25,7 @@ Finally, I created the function named *calculate_annual_growth* and the variable
 
 <img width="576" alt="Screen Shot 2021-09-24 at 6 41 18 PM" src="https://user-images.githubusercontent.com/89553126/134749800-c0de2069-efcd-47c6-9442-409b833d454f.png">
 
-**Uses the function and places in the calculated data from the variables**
+**Uses the function with the calculated data from the variables**
 
 <img width="475" alt="Screen Shot 2021-09-24 at 6 49 03 PM" src="https://user-images.githubusercontent.com/89553126/134750159-ec492ad6-9305-4e87-aa47-9085d5f48528.png">
 
