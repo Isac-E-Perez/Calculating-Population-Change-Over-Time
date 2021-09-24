@@ -29,5 +29,5 @@ Finally, I created the function named *calculate_annual_growth* and the variable
 
 <img width="475" alt="Screen Shot 2021-09-24 at 6 49 03 PM" src="https://user-images.githubusercontent.com/89553126/134750159-ec492ad6-9305-4e87-aa47-9085d5f48528.png">
 
-After analyzing the data, I was able to gleam that from 1927 to 2017 the population of Istanbul, Turkey grew by applroximately 23.0555250040199 % each year.
+After analyzing the data, I was able to gleam that from 1927 to 2017 the population of Istanbul, Turkey grew by approximately 23.0555250040199 % each year.
  
