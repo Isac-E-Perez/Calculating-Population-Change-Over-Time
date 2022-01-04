@@ -65,9 +65,7 @@ calculate_annual_growth <- function(year_one, year_two, pop_y1, pop_y2, city) {
 
 **Uses the function with the calculated data from the variables**
 
-```R
-# calculate_annual_growth is a function so we will treat it as one 
-
+```R 
 calculate_annual_growth(year_one, year_two, pop_y1, pop_y2, city) 
 ```
 
